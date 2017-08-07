@@ -2,7 +2,7 @@
 
 ## Overview
 In this lab, you'll set initial state in a React component and distinguish between state and props.
-
+ 
 ## Image slider
 Let's pretend we're making an awesome slider for our new portfolio site. Naturally, we'll use React to do so! We have to start somewhere, so in this lab we'll just focus on setting up the initial state of the slider.
 
